@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, me chamo Cristian 👋
 
-<!--
-**criscar1998/criscar1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack apaixonado por tecnologia, escrevendo código limpo e escalável. Trabalho principalmente com:
 
-Here are some ideas to get you started:
+- ⚡ **Linguagens:** C# (.NET), JavaScript (Node.js, Angular, NestJS), PHP (Laravel, WordPress)  
+- 🛢️ **Bancos de Dados:** SQL Server, MySQL, PostgreSQL  
+- 📦 **DevOps & Infra:** Docker, Linux, Git, CI/CD 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Sobre mim:
+Sou um entusiasta da programação e gosto de desenvolver soluções eficientes para problemas do mundo real. Atualmente, estou focado em arquiteturas escaláveis, integração de APIs e otimização de sistemas.
+
+⚡ Sempre aberto a colaborações e novos desafios!  
+
+## 📫 Entre em contato  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cristian-silva-87aa9419b/)  
+- 📧 [E-mail](cristiansilva9899@gmail.com)
+
+
+<div>
+<a href="https://github.com/criscar1998">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscar1998&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=criscar1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
