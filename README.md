@@ -80,3 +80,10 @@ Minha paixão reside em construir arquiteturas robustas, integrar APIs complexas
 ## 📫 Entre em contato  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cristian-carvalho-87aa9419b/)  
 - 📧 [E-mail](cristiansilva9899@gmail.com)
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9E6EE8&height=100&section=footer" width="100%"/>
+</div>
